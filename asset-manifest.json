@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/dcp-mobile-apps-official/static/css/main.5589f411.css",
+    "main.js": "/dcp-mobile-apps-official/static/js/main.7e8f945e.js",
+    "static/media/wallart-gallery-bg.png": "/dcp-mobile-apps-official/static/media/wallart-gallery-bg.7be6f5413711f5804c2a.png",
+    "static/media/endless-escape-2d-bg.png": "/dcp-mobile-apps-official/static/media/endless-escape-2d-bg.9be76dae6e5611cbafe5.png",
+    "static/media/ecommerce.png": "/dcp-mobile-apps-official/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/nic-decoder-bg.png": "/dcp-mobile-apps-official/static/media/nic-decoder-bg.ba422e5568ca8aefd1f6.png",
+    "static/media/sidebar.png": "/dcp-mobile-apps-official/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/mobile-notekeeper-bg.png": "/dcp-mobile-apps-official/static/media/mobile-notekeeper-bg.8fcc6caeddb0c088fb09.png",
+    "static/media/girl.png": "/dcp-mobile-apps-official/static/media/girl.88b4d1bd060196c365b9.png",
+    "static/media/musicapp.png": "/dcp-mobile-apps-official/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/profile9.jpg": "/dcp-mobile-apps-official/static/media/profile9.95958a2845e85d9f4892.jpg",
+    "static/media/profile1.jpg": "/dcp-mobile-apps-official/static/media/profile1.e8e90d96ab62d5cc2275.jpg",
+    "static/media/profile5.jpg": "/dcp-mobile-apps-official/static/media/profile5.31ffb5a256a0b2e1d237.jpg",
+    "static/media/glassesimoji.png": "/dcp-mobile-apps-official/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/profile4.jpg": "/dcp-mobile-apps-official/static/media/profile4.43f80fab6b766909caac.jpg",
+    "static/media/profile7.jpg": "/dcp-mobile-apps-official/static/media/profile7.4c1689508f70be11b88b.jpg",
+    "static/media/profile2.jpg": "/dcp-mobile-apps-official/static/media/profile2.7c6af6653e24f9c5ea37.jpg",
+    "static/media/profile3.jpg": "/dcp-mobile-apps-official/static/media/profile3.7a616923c7b72edfcc92.jpg",
+    "static/media/hoc.png": "/dcp-mobile-apps-official/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/profile13.jpg": "/dcp-mobile-apps-official/static/media/profile13.50e1c1ddcd663a2f9d04.jpg",
+    "static/media/profile12.jpg": "/dcp-mobile-apps-official/static/media/profile12.69af94e55044dc59fe34.jpg",
+    "static/media/profile10.jpg": "/dcp-mobile-apps-official/static/media/profile10.a2d6b0bd403a0fccb1cc.jpg",
+    "static/media/nic-decoder.png": "/dcp-mobile-apps-official/static/media/nic-decoder.209399a99083bb7e3a9e.png",
+    "static/media/profile8.jpg": "/dcp-mobile-apps-official/static/media/profile8.996b789701be3222126a.jpg",
+    "static/media/thumbup.png": "/dcp-mobile-apps-official/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/profile11.jpg": "/dcp-mobile-apps-official/static/media/profile11.fbd577e163d243f9d113.jpg",
+    "static/media/endless-escape.png": "/dcp-mobile-apps-official/static/media/endless-escape.8224ce83eaabce15629a.png",
+    "static/media/unity.png": "/dcp-mobile-apps-official/static/media/unity.74b591b39c002500e547.png",
+    "static/media/wave.png": "/dcp-mobile-apps-official/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/profile6.jpg": "/dcp-mobile-apps-official/static/media/profile6.9c8153759c88092a0128.jpg",
+    "static/media/crown.png": "/dcp-mobile-apps-official/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/dcp-mobile-apps-official/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "index.html": "/dcp-mobile-apps-official/index.html",
+    "main.5589f411.css.map": "/dcp-mobile-apps-official/static/css/main.5589f411.css.map",
+    "main.7e8f945e.js.map": "/dcp-mobile-apps-official/static/js/main.7e8f945e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5589f411.css",
+    "static/js/main.7e8f945e.js"
+  ]
+}
